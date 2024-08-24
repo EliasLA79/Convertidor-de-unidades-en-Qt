@@ -1,0 +1,28 @@
+# Archivos de compilación
+*.o
+*.obj
+*.exe
+*.out
+*.log
+
+# Archivos generados por el compilador
+*.gch
+*.pch
+
+# Archivos temporales de IDEs
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+*.ninja/
+
+# Archivos de Qt Creator
+*.pro.user
+*.qmake.stash
+*.qmake.cache
+*.creator/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
